@@ -1,0 +1,93 @@
+body
+{
+    /* background-color: #F1F1F1; /* Default for no BG */
+    background-color: #000000;       /* Prevents white flash */
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: rgb(68, 68, 68);
+}
+
+#box
+{
+    background-color: #F1F1F1;
+    opacity: 0.8;
+    
+    width: 358px;
+    height: 280px;
+    min-height: 280px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 50, 0.137255) 0px 4px 6px 1px;
+    box-sizing: border-box;
+    padding: 40px 35px 30px 47px;
+}
+#title
+{
+    font-size:    24px;
+    font-weight:  bold;
+    margin-right: 20px;    /* More centered */
+    text-align:   center;
+}
+
+form
+{
+    padding-top: 20px;
+    width: 100%;
+}
+
+input
+{
+    font-size: 20px;
+    
+    /* Centering */
+    display:block;
+    margin: 0 auto;
+    
+    margin-top: 10px;
+
+}
+
+#btnSubmit
+{
+    width: 80px;
+    margin-top: 17px;
+    
+    font: 13px/28px Arial, sans-serif;
+    color: #FFFFFF;
+    background: #606C88;
+    border: 1px solid #606C88;
+    border-radius: 4px;
+    padding: 0px 12px;
+}
+
+
+#apply
+{
+    width: 130px;
+    height: 25px;
+    text-align: center;
+    
+    font: 10px/28px Arial, sans-serif;
+    color: #FFFFFF;
+    background: #606C88;
+
+    border-radius: 8px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+    position: absolute;
+    top:0;
+    right:0;
+
+    opacity: 0.5;
+    text-decoration:none
+}
