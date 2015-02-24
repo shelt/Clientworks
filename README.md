@@ -9,7 +9,7 @@ Clientworks is a cloud-enabled, authentication-based client dashboard system for
 
   <p align="center"><img width="100%" src="https://i.imgur.com/0TkWPaf.jpg" /><br /><i>Simple login page</i></p>
   
-  <p align="center"><img width="100%" src="https://i.imgur.com/CxewmxV.png" /><br /><i>Dashboard</i></p>
+  <p align="center"><img width="100%" src="https://i.imgur.com/75LX9B9.png /><br /><i>Dashboard</i></p>
 
 
 ### What's New
